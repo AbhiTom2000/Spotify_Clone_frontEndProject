@@ -26,8 +26,8 @@ This project is a **front-end only** replication of the **Spotify Windows applic
 ## 🔧 Installation & Usage
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/AbhiTom2000/spotify-clone.git
-   cd spotify-clone
+   git clone https://github.com/AbhiTom2000/Spotify_Clone_frontEndProject.git
+   cd Spotify_Clone_frontEndProject
    ```
 2. **Open `index.html`** in any modern browser.
 
